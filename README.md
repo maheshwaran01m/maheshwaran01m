@@ -50,7 +50,7 @@ I’m currently learning 🌱 `SwiftUI`.
 
   ## Contact📲
  
-  To reach, drop me a
+  To reach, drop me a message,
   
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [ID](maheshwaran99m@gmail.com)
 
