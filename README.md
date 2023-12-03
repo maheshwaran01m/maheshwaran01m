@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Stats📈
 <p align="leading">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="maheshwaran01m"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="maheshwaran01m"/> 
 </p>
 
 <p align="leading"> 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   </p>
 
   <p align="leading">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="maheshwaran01m" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="maheshwaran01m" /> 
 
   </p>
