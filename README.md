@@ -32,11 +32,12 @@ I love 🎯 to work on different types of `UIKit,SwiftUI Projects`.
 I’m currently learning 🌱 `SwiftUI`.
 
 ## Stats📈
+<!--
 <p align="leading">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="maheshwaran01m"/> 
 </p>
-
+-->
 <p align="leading"> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwaran01m&theme=highcontrast&hide_border=true" alt="maheshwaran01m" />
   </p>
