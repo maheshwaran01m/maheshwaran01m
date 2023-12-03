@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm MAHESHWARAN 👋
 
-I'm a `Professional Software Engineer` specialized in `UIKit and SwiftUI`.
+I'm a `Professional Software Engineer` specialized in `UIKit and SwiftUI` .
 
 And I'm working in [EAM360](https://eam360.com), [Mobile App](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566),
 
@@ -29,6 +29,8 @@ I've Completed my 🎓 `Master's in Computer Science` - [University of Madras](h
 I love 🎯 to work on different types of `UIKit,SwiftUI Projects`.
 
 I’m currently learning 🌱 `SwiftUI`.
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
        
 
 ## Stats📈
@@ -48,4 +50,6 @@ I’m currently learning 🌱 `SwiftUI`.
 
   ## Contact📲
  
-  To reach, drop me a Email 📫 `maheshwaran99m@gmail.com`
+  To reach, drop me a
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maheshwaran99m@gmail.com)
