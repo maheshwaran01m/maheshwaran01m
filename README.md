@@ -1,8 +1,8 @@
-### Hi there 👋
 
 <!--
 **maheshwaran01m/maheshwaran01m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 
 # Hi, I'm MAHESHWARAN 👋
 
-       🔭 I'm currently working in `EAM360` has a `Software Engineer (iOS)`.
-       🎯 I love to work on different types of `UIKit,SwiftUI Projects`.
-       🌱 I’m currently learning `SwiftUI`
-       🎓 I've **Master's in Computer Science** from `University of Madras` (Guindy Campus, Chennai, India).
-       📫 To reach, drop me a Email `maheshwaran99m@gmail.com`
+I'm a `Professional Software Engineer` specialized in `UIKit and SwiftUI`.
 
+And I'm working in [EAM360](https://eam360.com),
+
+And i've worked challenging task related to  [Attachments](https://github.com/maheshwaran01m/Attachments), [QRScanner](https://github.com/maheshwaran01m/QRScanner),
+[Search Parameters](https://github.com/maheshwaran01m/Searchify), [News](https://github.com/maheshwaran01m/News), and currently working in `EAM360` reusable component library for building iOS and iPadOS apps.
+
+I've Completed my 🎓 `Master's in Computer Science` - [University of Madras](https://www.unom.ac.in), [Guindy Campus](https://www.unom.ac.in/index.php?route=campus/guindy), Chennai, India.
+
+I love 🎯 to work on different types of `UIKit,SwiftUI Projects`.
+
+I’m currently learning 🌱 `SwiftUI`.
+       
 
 ## Stats📈
 <p align="leading">
@@ -38,3 +45,7 @@ Here are some ideas to get you started:
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="maheshwaran01m" /> 
 
   </p>
+
+  ## Contact📲
+ 
+  To reach, drop me a Email 📫 `maheshwaran99m@gmail.com`
