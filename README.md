@@ -32,22 +32,23 @@ I love 🎯 to work on different types of `UIKit,SwiftUI Projects`.
 I’m currently learning 🌱 `SwiftUI`.
 
 ## Stats📈
+
+<p align="leading"> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwaran01m&theme=highcontrast&hide_border=true" alt="maheshwaran01m" />
+  </p>
+
 <!--
 <p align="leading">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="maheshwaran01m"/> 
 </p>
--->
-<p align="leading"> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwaran01m&theme=highcontrast&hide_border=true" alt="maheshwaran01m" />
-  </p>
 
   <p align="leading">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="maheshwaran01m" /> 
   </p>
 
   ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-       
+   -->   
 
   ## Contact📲
  
