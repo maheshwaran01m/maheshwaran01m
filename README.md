@@ -24,10 +24,7 @@ And I'm currently working in [EAM360](https://eam360.com), [Mobile App](https://
 
 And i've worked challenging task related to  [Attachments](https://github.com/maheshwaran01m/Attachments), [QRScanner](https://github.com/maheshwaran01m/QRScanner),
 [Search Parameters](https://github.com/maheshwaran01m/Searchify), [News](https://github.com/maheshwaran01m/News), [Trimble](https://geospatial.trimble.com/en/resources/blog/trimble-eam360), and currently working in `EAM360` reusable component library for building iOS and iPadOS apps.
-
-<!--
-I've Completed my 🎓 **Master's in Computer Science** - [University of Madras](https://www.unom.ac.in), [Guindy Campus](https://www.unom.ac.in/index.php?route=campus/guindy), Chennai, India.
- -->   
+  
 I love 🎯 to work different types of `UIKit, SwiftUI Projects`.
 
 I’m currently learning 🌱 `SwiftUI`.
@@ -50,12 +47,3 @@ I’m currently learning 🌱 `SwiftUI`.
 
   ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
    -->   
-<!--
-  ## Contact📲
- 
-  To reach, drop me a message,
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwaran99m@gmail.com)
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshwaran99m/)
-  -->
