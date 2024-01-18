@@ -32,7 +32,7 @@ I’m currently learning 🌱 `SwiftUI`.
 
 ## OpenSource💻
 
-**Component Library**: [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git)
+Component Library: [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git)
 
 
 
