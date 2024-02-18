@@ -25,7 +25,7 @@ And I'm currently working in [EAM360](https://eam360.com), [Mobile App](https://
 And i've worked challenging task related to  [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git), [Attachments](https://github.com/maheshwaran01m/Files), [QRScanner](https://github.com/maheshwaran01m/QRScanner),
 [Search Parameters](https://github.com/maheshwaran01m/Searchify), [News](https://github.com/maheshwaran01m/News), [Trimble](https://geospatial.trimble.com/en/resources/blog/trimble-eam360), and currently working in `EAM360` reusable component library for building iOS and iPadOS apps.
   
-I like 🎯 to work different types Projects like `UIKit, SwiftUI `.
+I like 🎯 to work different types of Projects like `UIKit, SwiftUI `.
 
 I’m currently learning 🌱 `SwiftUI`.
 
