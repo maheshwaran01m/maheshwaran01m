@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm MAHESHWARAN 👋
+# Hi, I'm Maheshwaran 👋
 
 I'm a **Professional Software Engineer** specialized in **UIKit and SwiftUI** .
 
