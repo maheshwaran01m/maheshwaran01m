@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 I'm a **Professional Software Engineer** specialized in **UIKit and SwiftUI** .
 
-And i've worked challenging task related to  [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566), [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git), [Attachments](https://github.com/maheshwaran01m/Attachments), [QRScanner](https://github.com/maheshwaran01m/QRScanner), and currently working on complete `EAM360` revamp to SwiftUI using TarakUIKit library for building iOS and iPadOS apps.
+And i've worked challenging task related to  [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566), [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git), [Attachments](https://github.com/maheshwaran01m/Attachments), [QRScanner](https://github.com/maheshwaran01m/QRScanner). 
+
+Currently working on complete `EAM360` revamp to SwiftUI using TarakUIKit library for building iOS and iPadOS apps.
   
 I like 🎯 to work different types of Projects in `UIKit, SwiftUI`.
 
