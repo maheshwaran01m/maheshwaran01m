@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Maheshwaran 👋
 
-I'm a **Professional Software Engineer** specialized in **UIKit and SwiftUI** .
+I'm a **Software Engineer** specialized in **UIKit and SwiftUI** .
 
-And I've worked on challenging task related to [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566), [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git), [Attachments](https://github.com/maheshwaran01m/Attachments), [QRScanner](https://github.com/maheshwaran01m/QRScanner). 
+And I've worked on challenging project related to [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566), [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git), [Attachments](https://github.com/maheshwaran01m/Attachments). 
 
 Currently working on complete `EAM360` revamp to SwiftUI using TarakUIKit library for building iOS and iPadOS apps.
   
@@ -51,4 +51,6 @@ SwiftUI Component Library - [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-k
   </p>
 
   ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-   -->   
+   --> 
+## 📫 Reach me: 
+<a href="mailto:maheshwaran99m@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
