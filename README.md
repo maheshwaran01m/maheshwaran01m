@@ -28,8 +28,8 @@ I’m currently learning 🌱 `SwiftUI`, `AR`.
 
 ## 💻 OpenSource
 
-SwiftUI Component Library - [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git) , [Microsoft-FluentUI](https://github.com/microsoft/fluentui-system-icons)
-
+- Tarkalabs - [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git) (SwiftUI Component Library)
+- Microsoft - [Fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 
 ## 📈Stats
 
