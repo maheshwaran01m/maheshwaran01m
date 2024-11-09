@@ -14,18 +14,18 @@ I like 🎯 to work different types of Projects in `UIKit, SwiftUI`.
 I’m currently learning 🌱 `SwiftUI`, `AR`.
 
 
-## 💻 OpenSource
+## 💻 Open Source
 
 - Tarkalabs - [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git) (SwiftUI Component Library)
 - Microsoft - [Fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 
+<!--
 ## 📈Stats
 
 <p align="leading"> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwaran01m&theme=highcontrast&hide_border=true" alt="maheshwaran01m" />
   </p>
 
-<!--
 <p align="leading">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshwaran01m&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="maheshwaran01m"/> 
