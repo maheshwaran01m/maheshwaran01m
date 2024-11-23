@@ -5,14 +5,9 @@
 
 # Hi, I'm Maheshwaran 👋
 
-I'm a **Software Engineer** specialized in **UIKit and SwiftUI** .
+Experienced Software Engineer in native iOS Mobile Application development. Proficient in **Swift** - **UIKit**, **SwiftUI** and Creating Reusable components.
 
-I've worked on challenging project related to [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566) on complete revamp from UIKit to SwiftUI, [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git).
-  
-I like 🎯 to work different types of Projects in `UIKit, SwiftUI`.
-
-I’m currently learning 🌱 `SwiftUI`, `AR`.
-
+Worked on complete [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566) app redesign (v2.19, v3.0) by transitioning from UIKit to SwiftUI. [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git).
 
 ## 💻 Open Source
 
