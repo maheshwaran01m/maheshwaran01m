@@ -17,10 +17,10 @@ Experienced Software Engineer in native Mobile Application development. Proficie
 
 - Contributed to FluentUI System Icons a collection of modern icons from Microsoft.
 
-Education:
+**Education:**
  - Master of Science in Computer Science
 
-Meetup:
+**Meetup:**
  - Swift Bengaluru: Given a presentation on Accelerating Development through Reusable Components in SwiftUI.
 
 ## 💻 Open Source
