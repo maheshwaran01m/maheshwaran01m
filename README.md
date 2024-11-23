@@ -7,7 +7,7 @@
 
 Experienced Software Engineer in native iOS Mobile Application development. Proficient in **Swift** - **UIKit**, **SwiftUI** and Creating Reusable components.
 
-Worked on complete [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566) app redesign (v2.19, v3.0) by transitioning from UIKit to SwiftUI. [TarkaUIKit](https://github.com/tarkalabs/tarka-ui-kit-ios.git).
+Worked on complete [EAM360 Mobile](https://apps.apple.com/in/app/eam360-mobile-app-for-maximo/id1076817566) app redesign (v2.19, v3.0) by transitioning from UIKit to SwiftUI.
 
 ## 💻 Open Source
 
