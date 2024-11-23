@@ -21,4 +21,4 @@ Experienced Software Engineer in native Mobile Application development. Proficie
  - Master of Science in Computer Science
 
 **Meetup**
- - [Swift Bengaluru](https://in.linkedin.com/company/swiftbengaluru): Given a presentation on Accelerating Development through Reusable Components in SwiftUI.
+ - [Swift Bengaluru](https://in.linkedin.com/company/swiftbengaluru) Given a presentation on Accelerating Development through Reusable Components in SwiftUI.
