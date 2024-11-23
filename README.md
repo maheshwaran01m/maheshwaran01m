@@ -7,7 +7,7 @@
 
 Experienced Software Engineer in native Mobile Application development. Proficient in **Swift** - **UIKit**, **SwiftUI** and Creating Reusable components.
 
-**Key Achievements:**
+**Key Achievements**
 
 - Contributed to [My Sky app](https://apps.apple.com/it/app/my-sky/id1441293148?l=en-GB) and Sky component library for building iOS applications. Developed an automated code generation feature utilizing the BuildTool Plugin within SPM [Link](https://github.com/maheshwaran01m/ThemeExample). Also, I have addressed Swift concurrency-related runtime crashes, as well as Xcode runtime crashes, within the My Sky App.
 
@@ -17,8 +17,8 @@ Experienced Software Engineer in native Mobile Application development. Proficie
 
 - Contributed to [FluentUI System Icons](https://github.com/microsoft/fluentui-system-icons) a collection of modern icons from Microsoft.
 
-**Education:**
+**Education**
  - Master of Science in Computer Science
 
-**Meetup:**
- - Swift Bengaluru: Given a presentation on Accelerating Development through Reusable Components in SwiftUI.
+**Meetup**
+ - [Swift Bengaluru](https://in.linkedin.com/company/swiftbengaluru): Given a presentation on Accelerating Development through Reusable Components in SwiftUI.
